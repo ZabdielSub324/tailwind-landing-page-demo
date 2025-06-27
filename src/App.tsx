@@ -15,7 +15,7 @@ function App() {
             <div className="w-12">
               <ReactLogo className="fill-white" />
             </div>
-            <h2 className="text-xl uppercase font-bold">Gurrola Trujillo Alan</h2>
+            <h2 className="text-xl uppercase font-bold">Morales Quiñones Zabdiel Javier</h2>
             <h1 className="text-6xl font-bold">
               Universidad Tecnologica de Durango
             </h1>
